@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+github.is_project_page: false
+title: Graph Platform
+description: Explore, Design, Deploy Data Platform to manage your graph.
+google_analytics: UA-220112779-1
