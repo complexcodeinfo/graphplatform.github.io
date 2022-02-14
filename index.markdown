@@ -1,16 +1,12 @@
 # Graph Platform
 
-It is the year 2022, and Wikipedia does not not have an article about Graph Data Platform. It would be good to learn the original of the term someday, but at this moment some graph database vendors are using this term to paint a bright future of when data is used for the better and faster way to manage highly connected data.
-
-In some cases, certain software engineers are given a task to design and deliver such platform for their orgnanizations and customers.
+The goal of this site to collect details and design decisions when it comes to implementing **graph data platform**. 
 
 But what is it? What is the graph data platform?
 
 # Connected and linked data
 
-The next dimension to compete is beyond the ability to calculate (general computing), store (big data), analyse (AI/ML) is to connect and piece together information from multiple sources. 
-
-Hence, graph is nothing but a model suche relationships and connections between various things.
+Graph is nothing but a model suche relationships and connections between various things.
 
 As the number and complexity of such connections grows, it is getting harder to maintain it by a single person or a single device.
 
