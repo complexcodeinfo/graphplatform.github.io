@@ -1,22 +1,26 @@
-# Graph Platform
+# Role of this site
 
-The goal of this site to collect details and design decisions when it comes to implementing **graph data platform**. 
+The goal of this site is to propose a vendor-agnostic definition of graph data platform, as a dedicated category of applications.
 
-But what is it? What is the graph data platform?
+Once established, it will be used to collect best-practices and design patterns to help software and hardware engineers, architects and business owners to make educated decisions.
 
 # Connected and linked data
+Ability to handle and manage connected and linked data at scale with high confidence is competitive advantage. 
+If executed correctly on a massive scale, it can provide strategic advantage. 
 
-Graph is nothing but a model suche relationships and connections between various things.
+# The platform
 
-As the number and complexity of such connections grows, it is getting harder to maintain it by a single person or a single device.
+There are number of challenges in engineering, operating and business when it comes to operating with connected and linked data.
 
-And as with many things as scale, the more complex sistem requires more people and solutions to get involved to make it all running as intented.
+Incomplete list:
+- data acquisition and curation
+- entity discovery, linking and resolution
+- traversal (both for transactional and analytical workloads)
+- integrations with other systems
+- data integrity and consistency
+- traceability 
 
-Therefore, the term "graph platform" naitevely comes to mind as a some kind of a system to  interract linked and connected data.
+Furthermore, each and single project could add their own specific requirements.
+This leads to an unavoidable tradeoffs, which needs to take place to provide optimal and balanced solution. 
 
-# The Platform 
-So, there are already engines, libraries, applications, frameworks and patterns to work with graphs.
-
-Can't we just use it? Why where is a need to have a platform?
-
-Here, with the help of the graph community, there is a hope to answer this question with as much required depth as possible.
+Understanding these tradeoffs and the capabilities of existing libraries, frameworks, engines and applications is crucial for designing and delivering the graph platform to handle connected and linked data.
